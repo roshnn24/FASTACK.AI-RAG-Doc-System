@@ -97,10 +97,6 @@ pdf-qa-system/
 ```
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - LangChain for document processing utilities
@@ -108,4 +104,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Ollama for the local LLM capability
 
 ---
-Created by [Roshaun Infant R] - Feel free to connect!
+Created by [Roshaun Infant R]
