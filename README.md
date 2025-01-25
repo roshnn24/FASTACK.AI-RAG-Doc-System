@@ -96,9 +96,6 @@ pdf-qa-system/
 └── vector_db/            # Vector store data
 ```
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
@@ -107,8 +104,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - LangChain for document processing utilities
-- Gradio team for the UI framework
-- Ollama team for the local LLM capability
+- Gradio for the UI framework
+- Ollama for the local LLM capability
 
 ---
 Created by [Roshaun Infant R] - Feel free to connect!
