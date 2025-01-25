@@ -2,8 +2,6 @@
 
 A Retrieval-Augmented Generation (RAG) system that allows users to upload PDFs and ask questions about their content. The system uses TF-IDF vectorization with NLTK preprocessing for efficient document retrieval and Ollama for local LLM inference.
 
-![RAG System Interface](interface_screenshot.png)
-
 ## Features
 
 - **PDF Processing**: Upload and process multiple PDF documents
