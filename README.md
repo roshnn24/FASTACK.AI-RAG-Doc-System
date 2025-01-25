@@ -1,4 +1,4 @@
-# PDF Question-Answering System with Local LLM
+# FASTACK.AI RAG Doc System (Ollama - llama3.1)
 
 A Retrieval-Augmented Generation (RAG) system that allows users to upload PDFs and ask questions about their content. The system uses TF-IDF vectorization with NLTK preprocessing for efficient document retrieval and Ollama for local LLM inference.
 
